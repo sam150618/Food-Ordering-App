@@ -1,0 +1,8 @@
+#Ignoring Node Modules
+/node_modules
+
+#Ignoring package.json
+package-lock.json
+
+#Ignoring build files
+/build
